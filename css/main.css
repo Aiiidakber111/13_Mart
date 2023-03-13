@@ -1,0 +1,56 @@
+.baslangic p{
+   
+
+    font-size: 50px;
+    color: black !important;
+
+}
+.baslangic h1{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    bottom: 400px;
+    right: 400px;
+    color: black !important;
+    
+}
+.baslangic h5{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    bottom: 400px;
+    right: 400px;
+    font-size: 30px;
+    color: black !important;
+    
+}
+
+
+
+
+.orta h1 {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+   background-color: ivory;
+}
+
+
+html{
+    background-color: rgba(0, 0, 0, 0.54) !important;
+}
+.text{
+    background-color: rgba(0, 0, 0, 0.54) !important;
+}
+.test1{
+    color: azure !important;
+}
+
+.element{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
