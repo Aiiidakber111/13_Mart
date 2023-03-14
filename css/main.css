@@ -31,10 +31,24 @@
 .orta h1 {
     width: 100%;
     height: 100%;
+    position: absolute;
     text-align: center;
-   background-color: ivory;
+   background-color:  black;
+   margin-top: 300px;
+   
 }
-
+.btn1{
+    background-color:  rgba(0, 0, 0, 0.54);
+    color: white;
+    font-size: 30px;
+    margin-left: 300px;
+    margin-right: 400px;
+    border-radius: 20px;
+}
+ .btn{
+    background-color: rgba(0, 0, 0, 0.54) ;
+    border: none;
+ }
 
 html{
     background-color: rgba(0, 0, 0, 0.54) !important;
@@ -54,3 +68,17 @@ html{
 
 
 }
+.container{
+    width: 100%;
+    height: 70px;
+     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card{
+    background-color:  ;
+}
+
